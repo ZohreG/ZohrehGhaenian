@@ -93,7 +93,7 @@ I specialize in designing scalable data solutions, building real-time dashboards
 
 📫 [Email](mailto:zohreh.ghaenian@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/zohrehghaenian)  
-🌐 [Portfolio](https://marziehqainian.github.io/Portfolio/)  
+🌐 [Portfolio](https://ZohrehG.github.io/Portfolio/)  
 📁 [Fraud Detection Thesis](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
 
 > I’m always open to **freelance data analytics projects**, **ML collaboration**, or simply talking tech and innovation 🚀
