@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/yourImageID.jpg" width="150" height="150" style="border-radius: 50%;">
-</p>
 
 <h1 align="center">Hi there, I'm Zohreh Ghaenian 👋</h1>
 
