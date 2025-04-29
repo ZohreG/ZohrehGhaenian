@@ -1,69 +1,81 @@
 # 👋 Hi, I'm Zohreh Ghaenian
 
-🎯 **Data Analyst | Telecom Data Expert | SQL Automation Enthusiast**  
+🎯 **Data Analyst | Telecom Data Specialist | Machine Learning Explorer**  
 📍 Berlin, Germany  
-📫 [Email](mailto:zohreh.ghaenian@gmail.com) • [LinkedIn](https://linkedin.com/in/zohreh-ghaenian-0483105b) • [Portfolio](https://marziehqainian.github.io/Portfolio/)
+📫 [Email](mailto:zohreh.ghaenian@gmail.com) • [LinkedIn](https://linkedin.com/in/zohreh-ghaenian-0483105b) • [Portfolio](https://marziehqainian.github.io/Portfolio/) • [Thesis Project](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
 
 ---
 
-## 💼 Who Am I?
+## 🧠 About Me
 
-I'm a **data-driven problem solver** with 5+ years of experience turning **millions of raw telecom records into business insights**.  
-I optimize SQL pipelines, automate reports with Bash, and bring visual clarity with Tableau dashboards.  
-Recently completed an MSc in **Data Analytics & Information System Management**, where I developed a fraud detection model with **92% accuracy**.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=postgresql)  
-![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=flat-square&logo=gnu-bash)
-
-**Tools & DBs:**  
-![Tableau](https://img.shields.io/badge/-Tableau-blueviolet?style=flat-square&logo=tableau)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
-![Oracle](https://img.shields.io/badge/-OracleDB-red?style=flat-square&logo=oracle)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+I'm a **highly analytical and proactive data analyst** with over 5 years of experience in **telecom data**, reporting automation, and real-time systems.  
+Currently completing my **MSc in Data Analytics and Information System Management**, where I developed a machine learning model that classifies e-commerce frauds with **92% accuracy**.
 
 ---
 
-## 🔍 Featured Projects
+## 🧪 MSc Thesis Project
 
-### 🧠 Fraud Detection in E-commerce  
-> 🎓 Master's Thesis Project  
-Built and evaluated **Random Forest**, **LightGBM**, and **Autoencoder** models on real-world data.  
-- Applied **SMOTE + PCA** for data balancing and dimensionality reduction  
-- Achieved **92%+ accuracy** detecting fraudulent transactions  
+**Title:** _Fraud Detection in E-commerce using Machine Learning_  
+🔍 Link to project: [Fraud-Detection-MSc-Project »](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
 
-### 📊 Real-Time Billing Automation  
-> 🔧 Tecnotree / Behsa  
-- Automated **debt and payment** reporting with Bash + SQL  
-- Reduced manual work by 80% and cut service tickets by 60%  
+### ✅ Key Highlights:
+- Implemented and compared: `Random Forest`, `LightGBM`, and `Autoencoder`  
+- Used `SMOTE` for class balancing and `PCA` for dimensionality reduction  
+- Achieved **>92% accuracy** using real-world imbalanced datasets  
+- Conducted feature importance analysis and performance comparison across multiple evaluation metrics (`F1`, `AUC`, `Precision`, `Recall`)  
+- Tools: `Python`, `Pandas`, `scikit-learn`, `Google Colab`, `Matplotlib`, `Seaborn`
 
 ---
 
-## 📈 Career Highlights
-- Migrated 5M+ records across telecom systems with near-zero data loss  
-- Tuned SQL reports for 1M+ customers, improving delivery speed by 30%  
-- Delivered real-time account summaries via cron-based reporting pipelines  
-- Collaborated across Middleware, QA, and Revenue Assurance teams
+## 💻 Technical Stack
+
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=postgresql)  
+![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=flat&logo=gnu-bash)
+
+**Databases**  
+![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)  
+![MS SQL Server](https://img.shields.io/badge/-SQL_Server-blue?style=flat&logo=microsoftsqlserver)
+
+**Tools & Visualization**  
+![Tableau](https://img.shields.io/badge/-Tableau-purple?style=flat&logo=tableau)  
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel)  
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+
+---
+
+## 💼 Work Experience Snapshot
+
+### 📍 Tecnotree (2017–2023) – Data Analyst & Migration Engineer
+- Automated billing and service usage reports for **1M+ subscribers**
+- Migrated **5M+ records** across legacy and modern telecom databases
+- Built Bash + Cron job pipelines for **real-time payment tracking**
+
+### 📍 Behsa (2023) – CBS BOS Engineer
+- Reduced manual reporting time by 80%
+- Developed anomaly detection in payment systems using SQL + bash
 
 ---
 
 ## 📚 Certifications
-- 🎓 **Tableau Data Analytics** – UC Davis  
-- 🛢️ **SQL for Data Science** – University of Michigan  
-- 🧠 **AI Foundations & TM Forum Frameworx**  
+
+- 🧾 **Tableau Data Analytics** – UC Davis  
+- 🧾 **SQL for Data Science** – University of Michigan  
+- 🧾 **AI Foundation & TM Forum Frameworx**  
 - 🧾 **ITIL 4 Foundation**
 
 ---
 
-## 📌 Let's Connect
-I'm open to **freelance projects**, **data challenges**, or just a chat about analytics and automation.  
-Feel free to reach out!
+## 📈 GitHub Stats
+
+![Zohreh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZohrehG&show_icons=true&theme=tokyonight)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marziehqainian&show_icons=true&theme=radical)
+## ☎️ Let's Connect
+
+I'm open to **collaborative data projects**, **consulting roles**, or discussing **ML-based automation in telecom and e-commerce**.  
+> 📬 Reach me on [LinkedIn](https://linkedin.com/in/zohreh-ghaenian-0483105b) or via [Email](mailto:zohreh.ghaenian@gmail.com)
+
