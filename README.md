@@ -1,81 +1,102 @@
-# 👋 Hi, I'm Zohreh Ghaenian
+<p align="center">
+  <img src="https://i.imgur.com/yourImageID.jpg" width="150" height="150" style="border-radius: 50%;">
+</p>
 
-🎯 **Data Analyst | Telecom Data Specialist | Machine Learning Explorer**  
-📍 Berlin, Germany  
-📫 [Email](mailto:zohreh.ghaenian@gmail.com) • [LinkedIn](https://linkedin.com/in/zohreh-ghaenian-0483105b) • [Portfolio](https://marziehqainian.github.io/Portfolio/) • [Thesis Project](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
+<h1 align="center">Hi there, I'm Zohreh Ghaenian 👋</h1>
 
----
-
-## 🧠 About Me
-
-I'm a **highly analytical and proactive data analyst** with over 5 years of experience in **telecom data**, reporting automation, and real-time systems.  
-Currently completing my **MSc in Data Analytics and Information System Management**, where I developed a machine learning model that classifies e-commerce frauds with **92% accuracy**.
+<p align="center">
+  🎯 Senior Data Analyst | 📊 Telecom & Fraud Detection Expert | 🧠 MSc in Data Analytics <br>
+  📍 Based in Berlin | 🌍 Open to Remote/Global Opportunities
+</p>
 
 ---
 
-## 🧪 MSc Thesis Project
+## 🧭 About Me
 
-**Title:** _Fraud Detection in E-commerce using Machine Learning_  
-🔍 Link to project: [Fraud-Detection-MSc-Project »](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
+I'm **Zohreh Ghaenian**, a highly skilled and detail-oriented **Data Analyst** with over **5 years of experience** in **telecom data engineering**, **SQL automation**, and **data-driven problem-solving**.
 
-### ✅ Key Highlights:
-- Implemented and compared: `Random Forest`, `LightGBM`, and `Autoencoder`  
-- Used `SMOTE` for class balancing and `PCA` for dimensionality reduction  
-- Achieved **>92% accuracy** using real-world imbalanced datasets  
-- Conducted feature importance analysis and performance comparison across multiple evaluation metrics (`F1`, `AUC`, `Precision`, `Recall`)  
-- Tools: `Python`, `Pandas`, `scikit-learn`, `Google Colab`, `Matplotlib`, `Seaborn`
+Currently completing my **MSc in Data Analytics and Information System Management** at Arden University, where I led a full-scale academic project focused on **fraud detection in e-commerce using machine learning**, reaching **92%+ accuracy**.
+
+I specialize in designing scalable data solutions, building real-time dashboards, and automating large-scale reporting pipelines with SQL, Python, and Bash. I thrive in fast-paced, cross-functional environments where data quality, performance, and impact truly matter.
 
 ---
 
-## 💻 Technical Stack
+## 🧪 MSc Thesis Project – Fraud Detection in E-commerce
 
-**Languages & Scripting**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=postgresql)  
-![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=flat&logo=gnu-bash)
+🎓 _"An Extensive Comparison of ML Methods for Detecting Fraud in E-commerce Transactions"_  
+📁 [View Project Repository »](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
 
-**Databases**  
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)  
-![MS SQL Server](https://img.shields.io/badge/-SQL_Server-blue?style=flat&logo=microsoftsqlserver)
+**Highlights:**
+- Implemented and evaluated: `Random Forest`, `LightGBM`, `Autoencoder`
+- Used `SMOTE` for class balancing and `PCA` for feature reduction
+- Performed detailed **feature importance analysis**
+- Reached **92%+ accuracy** using real-world imbalanced datasets
+- Tools: Python, scikit-learn, pandas, matplotlib, seaborn, Google Colab
 
-**Tools & Visualization**  
-![Tableau](https://img.shields.io/badge/-Tableau-purple?style=flat&logo=tableau)  
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+📌 *This project showcases my expertise in end-to-end ML pipelines and academic-grade data science.*
 
 ---
 
 ## 💼 Work Experience Snapshot
 
-### 📍 Tecnotree (2017–2023) – Data Analyst & Migration Engineer
-- Automated billing and service usage reports for **1M+ subscribers**
-- Migrated **5M+ records** across legacy and modern telecom databases
-- Built Bash + Cron job pipelines for **real-time payment tracking**
+### 📍 CBS BOS Engineer – Behsa (2023)
+- Built real-time billing reports using **Bash + SQL**
+- Reduced manual reporting efforts by **80%**
+- Identified customer payment anomalies across **200K+ subscribers**
 
-### 📍 Behsa (2023) – CBS BOS Engineer
-- Reduced manual reporting time by 80%
-- Developed anomaly detection in payment systems using SQL + bash
+### 📍 Data Analyst & Support – Tecnotree (2017–2023)
+- Handled **SQL & MongoDB** data for **1M+ users**
+- Automated daily reports and built payment dashboards
+- Investigated data mismatches across provisioning systems
+- Migrated **5M+ records** across multiple legacy platforms
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Databases & Tools**:  
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-MS_SQL-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Visualization & Reporting**:  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Other**:  
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## 📚 Certifications
 
-- 🧾 **Tableau Data Analytics** – UC Davis  
-- 🧾 **SQL for Data Science** – University of Michigan  
-- 🧾 **AI Foundation & TM Forum Frameworx**  
-- 🧾 **ITIL 4 Foundation**
+- 📊 **Tableau Data Analytics** – University of California, Davis  
+- 🧠 **SQL for Data Science** – University of Michigan  
+- 🔐 **ITIL 4 Foundation Level** – AXELOS  
+- 🤖 **AI Foundation & TM Forum Frameworx**  
+- 💻 **Introduction to Java and OOP** – University of Pennsylvania
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Zohreh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZohrehG&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZohrehG&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" />
+</p>
 
 ---
 
-## ☎️ Let's Connect
+## 🤝 Let’s Connect!
 
-I'm open to **collaborative data projects**, **consulting roles**, or discussing **ML-based automation in telecom and e-commerce**.  
-> 📬 Reach me on [LinkedIn](https://linkedin.com/in/zohreh-ghaenian-0483105b) or via [Email](mailto:zohreh.ghaenian@gmail.com)
+📫 [Email](mailto:zohreh.ghaenian@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zohrehghaenian)  
+🌐 [Portfolio](https://marziehqainian.github.io/Portfolio/)  
+📁 [Fraud Detection Thesis](https://github.com/ZohrehG/Fraud-Detection-MSc-Project)
 
+> I’m always open to **freelance data analytics projects**, **ML collaboration**, or simply talking tech and innovation 🚀
